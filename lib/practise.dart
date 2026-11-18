@@ -6,7 +6,8 @@ void main(){
   stdout.write('Enter your name :');
   
   var name = stdin.readLineSync();
-  
+
+
   print("Welcome, $name");
   human();// creating a class object
   int a;

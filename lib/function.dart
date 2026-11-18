@@ -7,6 +7,7 @@ void main() {
   myc.printName('raj');
   myc.printName('raman');
 }
+
 class MyClass {
   void printName(String name) { // declaration
     print(name); // definition
